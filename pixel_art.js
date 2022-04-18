@@ -6,7 +6,7 @@ var palette = {};
 
 var bitmaps = [];
 
-var drawArt = function(x, y, bitmap, message){
+var drawArt = function(x, y, bitmap){
 
   noStroke();
   
