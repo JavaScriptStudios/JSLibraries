@@ -1,5 +1,3 @@
-smooth();
-
 var pixelSize;
 
 var palette = {};
